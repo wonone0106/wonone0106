@@ -1,5 +1,6 @@
-## Hi there 👋
-
+##  안녕하세요! 👋
+-저는 광주소프트웨어마이스터고등학교에서 재학중입니다.
+-AI를 공부하고 연구하고 있습니다.
 <!--
 **wonone0106/wonone0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
